@@ -5,7 +5,7 @@ MAIN=~/.auto-plotter
 T_CONF=~/.auto-plotter/tmp.conf
 P_CONF=~/.auto-plotter/plot.conf
 MNE=~/.auto-plotter/mnemonic.conf
-ALIAS="alias autoplotter='~./.plot.sh'"
+ALIAS="alias autoplotter='~/.plot.sh'"
 
 cat logo.txt
 
